@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mening Birinchi Sahifam</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <h1>Salom, Dunyo!</h1>
+        <p>Bu HTML va CSS yordamida yozilgan juda oddiy va tushunarli veb-sahifa.</p>
+        <button class="btn">Ko'proq bilish</button>
+    </div>
+
+</body>
+</html>
